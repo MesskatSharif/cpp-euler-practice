@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="cpp-euler-practice/cpp-euler-practice.vcxproj" />
+  <Project Path="cpp-euler-practice/cpp-euler-practice.vcxproj" Id="c33cc418-5b89-4493-b0c7-242b4517b057" />
 </Solution>
